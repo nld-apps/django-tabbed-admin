@@ -14,7 +14,7 @@ else:
 
 
 setup(
-    name='django-tabbed-admin2',
+    name='django-tabbed-admin3',
     version='2.0.0',
     author='Michael Galler',
     author_email='mgaller@live.de',
