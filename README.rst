@@ -19,13 +19,13 @@ From PyPi
 
 .. code-block::  shell-session
 
-    pip install django-tabbed-admin
+    pip install django-tabbed-admin3
 
 From Github
 
 .. code-block::  shell-session
 
-    https://github.com/omji/django-tabbed-admin#egg=tabbed_admin
+    https://github.com/mgaller/django-tabbed-admin3#egg=tabbed_admin
 
 
 *****
@@ -184,7 +184,7 @@ LINKS
 *****
 
 Development:
-    https://github.com/mgaller/django-tabbed-admin2
+    https://github.com/mgaller/django-tabbed-admin3
 
 Package:
-    https://pypi.python.org/pypi/django-tabbed-admin2
+    https://pypi.python.org/pypi/django-tabbed-admin3
