@@ -14,13 +14,12 @@ else:
 
 
 setup(
-    name='django-tabbed-admin',
-    version='1.0.4',
-    author='Guillaume Pousseo',
-    author_email='guillaumepousseo@revsquare.com',
+    name='django-tabbed-admin2',
+    version='2.0.0',
+    author='Michael Galler',
+    author_email='mgaller@live.de',
     description='Easily add tabs to django admin forms.',
     long_description=open('README.rst').read(),
-    url='http://www.revsquare.com',
     license='BSD License',
     platforms=['OS Independent'],
     packages=find_packages(),
